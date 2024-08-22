@@ -7,7 +7,7 @@
 
 **Work In Progess**
 
-***Removing Not Free Resources - First version should be only cyber deception related intems that are free***
+***Removing Not Free Resources - First version should be only cyber deception related items that are accessible***
 
 A curated list of awesome Cyber Deception and Threat Intelligence resources
 
