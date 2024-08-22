@@ -1,0 +1,31 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: |
+          👋 Welcome to the project! Thank you for opening an issue and contributing to the cybersecurity deception community. Your input is invaluable in helping us strengthen and advance the tools we provide. 
+
+          Please ensure that your issue contains all relevant details, including steps to reproduce, expected behavior, and any relevant logs or screenshots. If you're reporting a bug, feel free to check our existing issues to see if it has already been reported.
+
+          We're excited to collaborate with you on this journey to make deception in cybersecurity even more effective. If you have any questions or need assistance, don't hesitate to ask!
+
+          Stay stealthy and secure! 🕵️‍♂️
+          
+        pr-message: |
+          🎉 Thank you for your contribution! Your pull request is a crucial part of making our cybersecurity deception tools even better.
+
+          Please make sure your PR follows our contribution guidelines, and that all tests pass. If you’ve added new features or fixed bugs, don't forget to update the documentation as well.
+
+          Our team will review your PR as soon as possible. We appreciate your efforts in helping us enhance the security landscape through deception!
+
+          Let's outsmart the adversaries together! 🔐
