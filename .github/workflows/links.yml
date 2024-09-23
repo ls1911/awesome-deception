@@ -8,10 +8,6 @@ on:
     branches:
       - master
   workflow_dispatch:
-  # repository_dispatch:
-  # workflow_dispatch:
-  # schedule:
-  #   - cron: "00 18 * * *"
 
 jobs:
   linkChecker:
@@ -25,23 +21,15 @@ jobs:
           args: --verbose --no-progress **/*.md **/*.html
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-      #- name: Fail if there were link errors
-      #  run: exit ${{ steps.lychee.outputs.exit_code }}
-        
-      # - name: Create Issue From File
-      #   uses: peter-evans/create-issue-from-file@v2
-      #   with:
-      #     title: Link Checker Report
-      #     content-filepath: ./lychee/out.md
-      #     labels: report, automated issue
 
       - name: Save Report
         if: failure()
         run: |
           echo "## Broken Links Report" > broken_links_report.md
           grep "ERR" $GITHUB_WORKSPACE/.lychee.out >> broken_links_report.md
+          
       - name: Upload Report
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: broken-links-report
           path: broken_links_report.md
