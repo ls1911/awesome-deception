@@ -58,11 +58,6 @@ This version aims for clarity and flow, while retaining the original meaning and
     <td>✅</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/desaster/kippo?tab=readme-ov-file">Kippo</a></td>
-    <td>Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.</td>
-    <td>❌</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/honeytrap/honeytrap">Honeytrap</a></td>
     <td>Honeytrap is an extensible and opensource system for running, monitoring and managing honeypots.</td>
     <td>❌</td>
@@ -109,20 +104,17 @@ an alert is raised and the attacker's ip address is potentially blacklisted.</td
 <tr><td><a href="https://www.forbes.com/councils/forbestechcouncil/2024/01/16/from-vulnerable-to-vigilant-revolutionizing-election-security-with-deception-tactics/">From Vulnerable To Vigilant: Revolutionizing Election Security With Deception Tactics
 </a></td><td>01-2024</td></tr>
 <tr><td><a href="https://www.forbes.com/councils/forbestechcouncil/2023/11/29/how-can-we-prevent-election-tampering/">How Can We Prevent Election Tampering?</td><td>11-2023</td></tr>
-<tr><td><a href="https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/">Valve used secret memory access “honeypot” to detect 40K Dota 2 cheaters</a></td><td>02-2023</td></tr>
-<tr><td><a href="https://www.usenix.org/publications/loginonline/imposing-cyber-penalty-against-attackers-cyber-deception"></a>Imposing a Cyber Penalty Against Attackers with Cyber Deception</a></td><td>01-2022</td></tr>
 <tr><td><a href="https://www.forbes.com/councils/forbestechcouncil/2021/10/22/the-art-of-war-how-to-use-deception-to-achieve-cyber-resiliency/">The Art Of War: How To Use Deception To Achieve Cyber Resiliency</a></td><td>10-2021</td></tr>      
 <tr><td><a href="https://blog.3coresec.com/2021/03/trapdoor-serverless-http-honeypot.html">Trapdoor - The serverless HTTP honeypot</a></td><td>03-2021</td></tr>
 <tr><td><a href="https://research.nccgroup.com/2021/03/04/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/">Deception Engineering: exploring the use of Windows Service Canaries against ransomware</a></td></tr>
 <tr><td><a href="https://marcusedmondson.com/2022/02/21/dripping-a-little-honey-in-your-environment">Dripping a Little Honey in your Environment</a></td><td>02-2021</td></tr>
 <tr><td><a href="https://rsquaredpolicy.medium.com/monitor-a-honeypot-with-azure-app-insights-28a0f0f3508f">Monitor a Honeypot with Azure App Insights</a></td><td>11-2020</td></tr>
-<tr><td><a href="https://www.tripwire.com/state-of-security/security-data-protection/deception-free-post-breach-detection-tool">Deception as a {Free} Post-Breach Detection Tool</a></td><td>03-2017</td></tr>      
-
 
 </table>
 
 # Communities
 <table>
+      <tr><td><a href="https://genaipot.zulipchat.com/#narrow/stream/451830-genaipot/topic/Welcome">GenAIPot Community</a>
       <tr><td><a href="https://www.reddit.com/r/cyber_deception/">Reddit Cyber Deception</a></td></tr>
       <tr><td><a href="https://www.honeynet.org/">The Honeynet Project</a></td></tr>
 </table>
@@ -309,7 +301,8 @@ Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurose
   - [IoTPOT: Analysing the Rise of IoT Compromises](https://christian-rossow.de/publications/iotpot-woot2015.pdf)
   - [Survey on Security Using Honeypot](http://iosrjen.org/Papers/Conf.ICIATE-2018/Volume-12/11-41-44.pdf)
 
-  
+# Archive - Stuff before 2014 - Might be important , but , you know..
+
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
   - [INTERCEPT: High-interaction Server-type Honeypot basedon Live Migration](http://www.necoma-project.eu/m/filer_public/8c/30/8c3011e1-a8a8-4ec6-b055-a12a7f621043/miyamoto-emu2014.pdf)
