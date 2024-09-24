@@ -149,7 +149,6 @@ Still editing below this line
   - [Honeypots in the age of universal attacks and the Internet of Things](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-944.pdf)
   - [An Empirical Assessment of the Effectiveness of Deception for Cyber Defense](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2890&context=dissertations_2)
   - [An Intelligent Deployment Policy for Deception Resources Based on Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9001034)
-  - [HoneyDetails: A prototype for ensuring patient’s information privacy and thwarting electronic health record threats based on decoys](https://journals.sagepub.com/doi/pdf/10.1177/1460458219894479)
   - [Role-Based Deception in Enterprise Networks](https://arxiv.org/pdf/2008.02979.pdf)
   - [Cyber Deception for Computer and Network Security: Survey and Challenges](https://arxiv.org/pdf/2007.14497.pdf)
   - [Towards Reconstructing Multi-Step Cyber Attacks in Modern Cloud Environments with Tripwires](https://arxiv.org/pdf/2009.12115.pdf)
@@ -170,7 +169,6 @@ Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-
   - [Prevalence of IoT Protocols in Telescope and Honeypot Measurements](https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/3/2)
   - [Counting Outdated Honeypots: Legal and Useful](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-walden-counting-outdated-honeypots-wtmc-19.pdf)
   - [Honeypot boulevard: understanding malicious activity via decoy accounts](http://discovery.ucl.ac.uk/10066774/)
-  - [How deception can change cyber security defences](https://www.sciencedirect.com/science/article/pii/S1361372319300089)
   - [VIRTUALIZED INTELLIGENT HONEYPOT AGENT](https://www.tdcommons.org/dpubs_series/1928/)
   
 
@@ -239,7 +237,6 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
   - [Cloxy: A Context-aware Deception-as-a-ServiceReverse Proxy for Web Services](https://www.researchgate.net/publication/327034328_Cloxy_A_Context-aware_Deception-as-a-Service_Reverse_Proxy_for_Web_Services)
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
-  - [Strategic Defense and Attack in Deception Based Network Security](https://www.researchgate.net/publication/321319096_Strategic_Defense_and_Attack_in_Deception_Based_Network_Security)
   - [Bitter Harvest: Systematically Fingerprinting Low- and Medium-interaction Honeypots at Internet Scale](https://www.usenix.org/conference/woot18/presentation/vetterl)
   - [A SPL Framework for Adaptive Deception-based Defense](https://core.ac.uk/download/pdf/143481525.pdf)
   - [Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
@@ -247,7 +244,6 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 IoT Devices](https://arxiv.org/pdf/1812.05558.pdf)
   - [HoneyThing: A New Honeypot Design for CPE Devices](http://itiis.org/digital-library/manuscript/2130)
   - [An Application of Jeeves for Honeypot Sanitization](http://www.cs.umd.edu/sites/default/files/scholarly_papers/Webster%2C%20Ashton_1801.pdf)
-  - [Cloud security using self-acting spontaneous honeypots](https://pdfs.semanticscholar.org/d309/ee0479aad76a0e74106c225e6cf0263388b6.pdf)
   - [HONEY POT AS A SERVICE IN CLOUD ](https://acadpubl.eu/hub/2018-118-21/articles/21c/99.pdf)
   - [A Survey of Game-Theoretic Approaches to
 Modeling Honeypots](http://ceur-ws.org/Vol-2081/paper29.pdf)
@@ -292,10 +288,8 @@ deception](https://www.osti.gov/servlets/purl/1368844)
   - [Deception by Design: Evidence-Based
 Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
   - [Experiences with Honey-Patching in Active Cyber Security Education](https://www.usenix.org/system/files/conference/cset15/cset15-araujo.pdf)
-  - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Weaving Tangled Webs: Offense, Defense, and
 Deception in Cyberspace](http://deterrence.ucsd.edu/_files/Weaving%20Tangled%20Webs_%20Offense%20Defense%20and%20Deception%20in%20Cyberspace.pdf)
-  - [Denial and Deception in Cyber Defense](https://www.researchgate.net/publication/275270540_Denial_and_Deception_in_Cyber_Defense)
   - [Fox in the Trap: Thwarting Masqueraders via Automated
 Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurosec_15_0.pdf)
   - [IoTPOT: Analysing the Rise of IoT Compromises](https://christian-rossow.de/publications/iotpot-woot2015.pdf)
@@ -326,20 +320,11 @@ Activity Using Kippo Honeypots](https://core.ac.uk/download/pdf/41530408.pdf)
 Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
-  - [A Survey: Recent Advances and Future Trends in
-Honeypot Research](http://www.mecs-press.org/ijcnis/ijcnis-v4-n10/IJCNIS-V4-N10-7.pdf)
-  
   - [Set-up and deployment of a high-interaction honeypot:experiment and lessons learned](https://hal.archives-ouvertes.fr/hal-00762596/document)
 - 2011
   - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
   - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
   - [SCADA Honeynets: The attractiveness of honeypots as critical infrastructure security tools for the detection and analysis of advanced threats](http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=3130&context=etd)
-- 2010
-  - [AHA - Adaptive Honeypot Alternative](http://eah.es/Wagener-AHA-Adaptive-Honeypot-Alternative-slides.pdf)
-  - [Honeyware: a web-based low interaction client honeypot](https://www.researchgate.net/publication/220719975_Honeyware_A_Web-Based_Low_Interaction_Client_Honeypot)
-- 2009
-  - [Using Honeypots to Analyse Anomalous Internet Activities](https://eprints.qut.edu.au/31833/1/Saleh_Almotairi_Thesis.pdf)
-  - [ADVANCED HONEYPOT ARCHITECTURE FOR NETWORK THREATS QUANTIFICATION](https://drum.lib.umd.edu/bitstream/handle/1903/9204/Berthier_umd_0117E_10310.pdf?sequence=1&isAllowed=y)
 - 2008
   - [Virtual honeynet with simulated user activity
 ](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
@@ -371,7 +356,6 @@ Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
   
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
-  - [Software Decoys: Intrusion Detection and Countermeasures](https://www.researchgate.net/publication/242426017_Software_Decoys_Intrusion_Detection_and_Countermeasures)
 - 2001
   - [A Framework for Deception](http://all.net/journal/deception/DeceptionFramework.pdf) 
 - 1994
@@ -410,7 +394,6 @@ Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
 - [IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices](https://youtu.be/r6Ymr0yR_EY)
 - [The KGB, the Computer, and Me (Complete)](https://www.youtube.com/watch?v=EcKxaq1FTac)
 - [No Budget Threat Intelligence - Tracking Malware Campaigns on the Cheap](https://www.youtube.com/watch?v=DKfWukYffsE)
-- [Visibility, Control, and Containment: Hunting Maturity through Cyber Deception](https://youtu.be/OvFfVDjGdtI)
 - [Drawing the Foul: Operation of a DDoS Honeypot](https://youtu.be/ifp8l2yx7JA)
 - [GlastopfNG - A web attack honeypot](https://youtu.be/rO8ofPV_5k8)
 - [A Framework For Fingerprinting ICS Honeypot](https://youtu.be/7EWSrGnFEEM)
