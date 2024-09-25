@@ -36,8 +36,9 @@ This version aims for clarity and flow, while retaining the original meaning and
 
 # Tools
 <table>
-      <tr><td>Project Name</td><td>description</td><td><Active></td><tr>
-    <td><a href="https://github.com/ls1911/GenAIPot">GenAIPot</a></td>
+      <tr><td>Project Name</td><td>description</td><td>Active</td></tr>
+            <tr>
+                <td><a href="https://github.com/ls1911/GenAIPot">GenAIPot</a></td>
     <td>GenAIPot is the first open-source A.I. honeypot that pushes the boundaries of cybersecurity. Unlike traditional honeypots, GenAIPot leverages cutting-edge Generative AI to emulate services making it harder to detect. What sets it apart is its ability to generate deceptive content in real-time based on the user instructions, tailored to specific setup. By dynamically responding to free-text user inputs and utilizing OpenAI's chatgpt API services, GenAIPot demonstrates the next evolution in cybersecurity of honeypots and deception-based systems.</td>
     <td>✅</td>
   </tr>
@@ -57,22 +58,10 @@ This version aims for clarity and flow, while retaining the original meaning and
 </td>
     <td>✅</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/honeytrap/honeytrap">Honeytrap</a></td>
-    <td>Honeytrap is an extensible and opensource system for running, monitoring and managing honeypots.</td>
-    <td>❌</td>
-  </tr>      
-  <tr>
-    <td>BearTrap</td>
-    <td>BearTrap is meant to be a portable network defense utility written entirely in
-Ruby.  When the attacker connects and/or performs some interactions with the trigger
-an alert is raised and the attacker's ip address is potentially blacklisted.</td>
-    <td>❌</td>
-  </tr>
-  <tr>
-    <td><a href="https://sourceforge.net/projects/kojoney/">Kojoney</a></td>
-    <td>Kojoney is a low level interaction honeypot that emulates an SSH server. The daemon is written in Python using the Twisted Conch libraries.</td>
-    <td>❌</td>
+        <tr>
+    <td><a href="https://github.com/mushorg/glastopf">glastopf</a></td>
+    <td>A web application honeypot that emulates vulnerabilities typically found in web apps, such as SQL injection and cross-site scripting (XSS). It collects data on web-based attacks, which is valuable for studying emerging threats.</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><a href="https://github.com/DataSoft/Honeyd">Honeyd</a></td>
@@ -80,10 +69,10 @@ an alert is raised and the attacker's ip address is potentially blacklisted.</td
     <td>❌</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/mushorg/glastopf">glastopf</a></td>
-    <td>A web application honeypot that emulates vulnerabilities typically found in web apps, such as SQL injection and cross-site scripting (XSS). It collects data on web-based attacks, which is valuable for studying emerging threats.</td>
+    <td><a href="https://github.com/honeytrap/honeytrap">Honeytrap</a></td>
+    <td>Honeytrap is an extensible and opensource system for running, monitoring and managing honeypots.</td>
     <td>❌</td>
-  </tr>
+  </tr>      
 
 </table>
 
