@@ -190,9 +190,6 @@ Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-
 - [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/diary/Detecting+Mimikatz+Use+On+Your+Network/19311)
 - [Implementing Honeytokens, Honeynets, and Honeytraps With Zero Budget](https://danielmiessler.com/blog/implementing-inexpensive-honeytrap-techniques/)
 - [Creating and Deploying Honeypots in Kubernetes](https://www.apriorit.com/dev-blog/619-web-cybersecurity-honeypots-in-kubernetes)
-- [Setting HoneyTraps with ModSecurity: Adding Fake robots.txt Disallow Entries](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/setting-honeytraps-with-modsecurity-adding-fake-robotstxt-disallow-entries/)
-- [Setting HoneyTraps with ModSecurity: Adding Fake HTML Comments](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/setting-honeytraps-with-modsecurity-adding-fake-html-comments/)
-- [Detecting Malice with ModSecurity: HoneyTraps](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/detecting-malice-with-modsecurity-honeytraps/)
 - [How Google set a trap for Pwn2Own exploit team](http://www.zdnet.com/blog/security/how-google-set-a-trap-for-pwn2own-exploit-team/)
 - [DevSecOps: Deception in Depth](https://devops.com/devsecops-deception-in-depth/)
 - [How You Can Set up Honeytokens Using Canarytokens to Detect Intrusions](https://zeltser.com/honeytokens-canarytokens-setup/)
@@ -251,7 +248,6 @@ approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1
 Intruder Behavior](https://www.securitee.org/files/pickyattackers_acsac2017.pdf)
   - [Weems: An extensible HTTP honeypot](https://researchspace.csir.co.za/dspace/bitstream/handle/10204/9691/Pearson_19652_2017.pdf)
   - [Understanding Security Flaws of IoT Protocols through Honeypot Technologies](https://repository.tudelft.nl/islandora/object/uuid:f4be5514-e9df-499a-8eea-f78c510d3346?collection=education)
-  - [Designing a smartphone honeypot system using performance counters](https://www.sciencedirect.com/science/article/pii/S2405609X16304225)
   - [Enhancing Honeypot Deception Capability
 Through Network Service Fingerprinting
 ](http://iopscience.iop.org/article/10.1088/1742-6596/801/1/012057/pdf)
@@ -294,7 +290,6 @@ Cyber-Attack Techniques](https://securehoney.net/dissertation.pdf)
 - 2013
   - [Detecting Targeted Attacks by Multilayer
 Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439_224.pdf)
-  - [Improving Security Using Deception](https://www.meshekah.com/publication/reports/improving_security_using_deception.pdf)
   - [Canary Files: Generating Fake Files to Detect Critical Data Loss from Complex Computer Networks](http://sdiwc.net/digital-library/canary-files-generating-fake-files-to-detect-critical-data-loss-from-complex-computer-networks.html)
   - [Honeywords: Making Password-Cracking Detectable](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
   - [Self-adaptive SSH Honeypot Model Capable of Reasoning](https://pdfs.semanticscholar.org/1d13/aaf110c9b4555c6988d85f6450ffde5b6123.pdf)
