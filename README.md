@@ -199,7 +199,6 @@ Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-
 - [Cowrie Honeypot Analysis - 24 hours after installing a fresh Cowrie Honeypot 
 on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cowrie-honeypot-analysis-24hrs/)
 - [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.rapid7.com/2016/11/30/early-warning-detectors-using-aws-access-keys-honeytokens/)
-- [To Honey or not to Honey](https://www.cyberstuff.org/articles/to-honey-or-not-to-honey)
 
 
 
@@ -282,8 +281,6 @@ Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurose
 
 # Archive - Stuff before 2014 - Might be important , but , you know..
 
-  - [From Patches to Honey-Patches: Lightweight
-Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
   - [INTERCEPT: High-interaction Server-type Honeypot basedon Live Migration](http://www.necoma-project.eu/m/filer_public/8c/30/8c3011e1-a8a8-4ec6-b055-a12a7f621043/miyamoto-emu2014.pdf)
   - [Building a Honeypot to Research
 Cyber-Attack Techniques](https://securehoney.net/dissertation.pdf)
