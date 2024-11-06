@@ -146,8 +146,6 @@ Still editing below this line
 Severity of APT Attacks Applying Deception
 Techniques - An Experiment](https://arxiv.org/pdf/2006.01849.pdf)
 
-  - [Honware: A Virtual Honeypot Framework for
-Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-honware-virtual-honeypot-framework-ecrime-19.pdf)
   - [Deploying a University Honeypot: A case study](http://ceur-ws.org/Vol-2443/paper03.pdf)
   - [The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts](https://www.usenix.org/system/files/sec19-torres.pdf)
   - [Deception-As-Defense Framework for Cyber-Physical Systems](https://arxiv.org/pdf/1902.01364.pdf)
@@ -159,7 +157,6 @@ Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-
   - [Counting Outdated Honeypots: Legal and Useful](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-walden-counting-outdated-honeypots-wtmc-19.pdf)
   - [Honeypot boulevard: understanding malicious activity via decoy accounts](http://discovery.ucl.ac.uk/10066774/)
   - [VIRTUALIZED INTELLIGENT HONEYPOT AGENT](https://www.tdcommons.org/dpubs_series/1928/)
-  
 
 ------
 
@@ -177,7 +174,6 @@ Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-
 - [Ensnare Attack Detection Tool Hopes to Frustrate Hackers, Too](https://threatpost.com/ensnare-attack-detection-tool-hopes-to-frustrate-hackers-too/105379/)
 - [Honeypots: Good servers in dark alleys can be an enterprise asset](https://techmonitor.ai/cybersecurity/honeypots-jason-schorr)
 - [Extending a Thinkst Canary to become an interactive honeypot](https://research.nccgroup.com/2020/09/14/extending-a-thinkst-canary-to-become-an-interactive-honeypot/)
-- [HoneyPoC: The fallout data after I trolled the Internet...](https://blog.zsec.uk/cve-2020-1350-honeypoc/)
 - [Experiments in Extending Thinkst Canary – Part 1](https://research.nccgroup.com/2020/07/04/experiments-in-extending-thinkst-canary-part-1/)
 - [Explain Like I’m Five: Poison Records (Honeypots for Database Tables)](https://medium.com/hackernoon/poison-records-acra-eli5-d78250ef94f)
 - [The SunDEW project: learning to pose scalability barriers to attackers](https://medium.com/sap-security-research/the-sundew-project-learning-to-pose-scalability-barriers-to-attackers-9d87a8e3a05a)
@@ -189,8 +185,6 @@ Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-
 - [High Interaction Honeypots with Sysdig and Falco](https://labs.f-secure.com/archive/high-interaction-honeypots-with-sysdig-and-falco/)
 - [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/diary/Detecting+Mimikatz+Use+On+Your+Network/19311)
 - [Implementing Honeytokens, Honeynets, and Honeytraps With Zero Budget](https://danielmiessler.com/blog/implementing-inexpensive-honeytrap-techniques/)
-- [Creating and Deploying Honeypots in Kubernetes](https://www.apriorit.com/dev-blog/619-web-cybersecurity-honeypots-in-kubernetes)
-- [How Google set a trap for Pwn2Own exploit team](http://www.zdnet.com/blog/security/how-google-set-a-trap-for-pwn2own-exploit-team/)
 - [DevSecOps: Deception in Depth](https://devops.com/devsecops-deception-in-depth/)
 - [How You Can Set up Honeytokens Using Canarytokens to Detect Intrusions](https://zeltser.com/honeytokens-canarytokens-setup/)
 - [Gene Spafford: Challenging the Maxim, “No Security Through Obscurity”](https://threatvector.cylance.com/en_us/home/gene-spafford-no-security-through-obscurity.html)
@@ -332,8 +326,6 @@ Detection](https://www.usenix.org/system/files/login/articles/822/goebel.pdf)
   - [Honeytokens: The Other Honeypot](https://www.symantec.com/connect/articles/honeytokens-other-honeypot)
   - [Honeypots: Catching the
 Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
-  - [Deception Techniques
-Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
   
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
