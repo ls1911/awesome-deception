@@ -110,6 +110,7 @@ This version aims for clarity and flow, while retaining the original meaning and
 
 # Books
 <table>
+      <tr><td><a href="https://www.amazon.com/Art-War-DELUXE-Sun-Tzu/dp/9388369696/">The Art Of War</a></td></tr>
       <tr><td><a href="https://www.amazon.com/dp/1735188301/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=">Intrusion Detection Honeypots: Detection through Deception</a></td></tr>
       <tr><td><a href="https://www.amazon.com/Offensive-Countermeasures-John-Strand/dp/1974671690/ref=sr_1_4?s=books&ie=UTF8&qid=1503419447&sr=1-4&keywords=john+strand">Offensive Countermeasures: The Art of Active Defense</a></td></tr>
 </table>
@@ -136,7 +137,6 @@ Still editing below this line
   - [GOTTA CATCH ’EM ALL: A MULTISTAGE FRAMEWORK FOR HONEYPOT FINGERPRINTING](https://arxiv.org/pdf/2109.10652.pdf)
 - 2020
   - [Honeypots in the age of universal attacks and the Internet of Things](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-944.pdf)
-  - [An Empirical Assessment of the Effectiveness of Deception for Cyber Defense](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2890&context=dissertations_2)
   - [An Intelligent Deployment Policy for Deception Resources Based on Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9001034)
   - [Role-Based Deception in Enterprise Networks](https://arxiv.org/pdf/2008.02979.pdf)
   - [Cyber Deception for Computer and Network Security: Survey and Challenges](https://arxiv.org/pdf/2007.14497.pdf)
@@ -201,14 +201,6 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 - [OWASP AppSensor Guide - Application-Specific Real Time Attack Detection & Response](https://owasp.org/www-pdf-archive/Owasp-appsensor-guide-v2.pdf)
 - [A Practical Guide to Honeypots](https://www.cse.wustl.edu/~jain/cse571-09/ftp/honey/)
 
-# Related Lists
-- [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
-
-# Research
-
-### Workshops
-- [Active Defense & Deception (AD&D)](https://adnd.work/)
-
 ## papers
 
 - 2018
@@ -266,10 +258,6 @@ deception](https://www.osti.gov/servlets/purl/1368844)
   - [Deception by Design: Evidence-Based
 Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
   - [Experiences with Honey-Patching in Active Cyber Security Education](https://www.usenix.org/system/files/conference/cset15/cset15-araujo.pdf)
-  - [Weaving Tangled Webs: Offense, Defense, and
-Deception in Cyberspace](http://deterrence.ucsd.edu/_files/Weaving%20Tangled%20Webs_%20Offense%20Defense%20and%20Deception%20in%20Cyberspace.pdf)
-  - [Fox in the Trap: Thwarting Masqueraders via Automated
-Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurosec_15_0.pdf)
   - [IoTPOT: Analysing the Rise of IoT Compromises](https://christian-rossow.de/publications/iotpot-woot2015.pdf)
   - [Survey on Security Using Honeypot](http://iosrjen.org/Papers/Conf.ICIATE-2018/Volume-12/11-41-44.pdf)
 
