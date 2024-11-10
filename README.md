@@ -182,14 +182,10 @@ Techniques - An Experiment](https://arxiv.org/pdf/2006.01849.pdf)
 - [Deceiving blue teams using anti-forensic techniques](https://blog.redteam.pl/2020/01/deceiving-blue-teams-anti-forensic.html)
 - [A Practical Guide to Honeypots](https://www.cse.wustl.edu/~jain/cse571-09/ftp/honey/)
 - [Learn how to deploy a Honeypot and visualise its data step by step](https://medium.com/@galolbardes/learn-how-to-deploy-a-honeypot-and-visualise-its-data-step-by-step-ea3cd3f25822)
-- [High Interaction Honeypots with Sysdig and Falco](https://labs.f-secure.com/archive/high-interaction-honeypots-with-sysdig-and-falco/)
 - [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/diary/Detecting+Mimikatz+Use+On+Your+Network/19311)
 - [Implementing Honeytokens, Honeynets, and Honeytraps With Zero Budget](https://danielmiessler.com/blog/implementing-inexpensive-honeytrap-techniques/)
 - [DevSecOps: Deception in Depth](https://devops.com/devsecops-deception-in-depth/)
 - [How You Can Set up Honeytokens Using Canarytokens to Detect Intrusions](https://zeltser.com/honeytokens-canarytokens-setup/)
-- [Gene Spafford: Challenging the Maxim, “No Security Through Obscurity”](https://threatvector.cylance.com/en_us/home/gene-spafford-no-security-through-obscurity.html)
-- [Reflections Upon Deception-Based Security Tactics](https://zeltser.com/deception-security-tactics/)
-- [Running A SSH Honeypot With Kippo: Let’s Catch Some Script Kiddies](http://blog.macuyiko.com/post/2011/running-a-ssh-honeypot-with-kippo-lets-catch-some-script-kiddies.html)
 - [Cowrie Honeypot Analysis - 24 hours after installing a fresh Cowrie Honeypot 
 on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cowrie-honeypot-analysis-24hrs/)
 - [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.rapid7.com/2016/11/30/early-warning-detectors-using-aws-access-keys-honeytokens/)
@@ -199,7 +195,6 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 # Guides
 - [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
 - [OWASP AppSensor Guide - Application-Specific Real Time Attack Detection & Response](https://owasp.org/www-pdf-archive/Owasp-appsensor-guide-v2.pdf)
-- [A Practical Guide to Honeypots](https://www.cse.wustl.edu/~jain/cse571-09/ftp/honey/)
 
 ## papers
 
@@ -285,22 +280,11 @@ Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
   - [Set-up and deployment of a high-interaction honeypot:experiment and lessons learned](https://hal.archives-ouvertes.fr/hal-00762596/document)
 - 2011
-  - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
   - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
-  - [SCADA Honeynets: The attractiveness of honeypots as critical infrastructure security tools for the detection and analysis of advanced threats](http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=3130&context=etd)
-- 2008
-  - [Virtual honeynet with simulated user activity
-](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
-  - [An Integrated Honeypot Framework for Proactive
-Detection, Characterization and Redirection of
-DDoS Attacks at ISP level ](https://pdfs.semanticscholar.org/82fa/427d32c6f8ee4730d95cc131f7434b4e138a.pdf)
 - 2007
-  
   - [Defensive Computer-Security Deception Operations: Processes, Principles and Techniques](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/5648/etd.pdf?sequence=1&isAllowed=y)
   - [Using deception to hide things from hackers: Processes, principles, and
 techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1b6e497.pdf)
-  - [Testing and validation of a dynamic honeypot
-system](http://www.sislab.no/jantore_project.pdf)
   - [Advanced Honeypot-based Intrusion
 Detection](https://www.usenix.org/system/files/login/articles/822/goebel.pdf)
   - [Lessons learned from the deployment of a high-interaction honeypot](https://arxiv.org/ftp/arxiv/papers/0704/0704.0858.pdf)
@@ -315,11 +299,8 @@ Detection](https://www.usenix.org/system/files/login/articles/822/goebel.pdf)
   - [Honeypots: Catching the
 Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
   
-  - [Delaying-type responses for use by software decoys
-](https://core.ac.uk/download/pdf/36698753.pdf)
 - 2001
   - [A Framework for Deception](http://all.net/journal/deception/DeceptionFramework.pdf) 
-- 1994
 
 # Podcasts
 - [Origins of Deception Technology with Haroon Meer](https://hackervalley.com/e/episode-74-origins-of-deception-technology-with-haroon-meer/)
@@ -413,15 +394,9 @@ Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
 - [Game of Hacks: The Mother of All Honeypots](https://youtu.be/aIvgjJSzPpI)
 - [Effortless, Agentless Breach Detection in the Enterprise: Token all the Things!](https://youtu.be/-g2AeLyTUbs)
 - [Watching the attackers with a web honeypot](https://youtu.be/e-Egd2RJbvc)
-- [Drupot - A drupal honeypot solution by Glasswall](https://youtu.be/1sZMsj2vZ0I)
-- [HoneyJax (AKA Web Security Monitoring and Intelligence 2.0)](https://youtu.be/fiFOAitV6GU)
-- [Honeypots and the evolution of botnets](https://youtu.be/Oi8vry6PwdM)
 - [Improve DDoS Botnet Tracking With Honeypots](https://youtu.be/ej6Z6CavsRs)
 - [Ghast04 You Got Your SQL Attacks In My Honeypot](https://youtu.be/Z7bM7MvUpS4)
-- [The Future of Honeypots](https://youtu.be/E2w3Z3ZPw8o)
 - [sshesame is an easy to setup fake SSH server / HoneyPot](https://youtu.be/aUHxc5eW3Ko)
-- [Countering the removable device threat with USB honeypots](https://youtu.be/9G9oo3b9qR4)
-- [Hack Yeah - Simple PHP Honeypot](https://youtu.be/o6dtMdIKZSk)
 - [Trapping Hacks with Ensnare](https://youtu.be/XHeM_OizkoQ)
 - [Continuous Security: Monitoring & Active Defense in the Cloud](https://youtu.be/KE80hN5kV6w)
 - [DECEPTICON OPSEC to Slow the OSINT](https://youtu.be/nB6XFIYGg5o)
