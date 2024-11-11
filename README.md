@@ -144,12 +144,9 @@ Still editing below this line
   - [Role-Based Deception in Enterprise Networks](https://arxiv.org/pdf/2008.02979.pdf)
   - [Cyber Deception for Computer and Network Security: Survey and Challenges](https://arxiv.org/pdf/2007.14497.pdf)
   - [Towards Reconstructing Multi-Step Cyber Attacks in Modern Cloud Environments with Tripwires](https://arxiv.org/pdf/2009.12115.pdf)
-  - [HoPLA: a Honeypot Platform to Lure Attackers](http://www.eurecom.fr/fr/publication/6366/download/sec-publi-6366.pdf)
   - [Towards Identifying Human Actions, Intent, and
 Severity of APT Attacks Applying Deception
 Techniques - An Experiment](https://arxiv.org/pdf/2006.01849.pdf)
-
-  - [Deploying a University Honeypot: A case study](http://ceur-ws.org/Vol-2443/paper03.pdf)
   - [The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts](https://www.usenix.org/system/files/sec19-torres.pdf)
   - [Deception-As-Defense Framework for Cyber-Physical Systems](https://arxiv.org/pdf/1902.01364.pdf)
   - [Learning and Planning in Feature Deception Games](https://arxiv.org/pdf/1905.04833.pdf)
