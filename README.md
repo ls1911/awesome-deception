@@ -224,8 +224,6 @@ approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1
   - [Evaluation of Deception-Based Web Attacks Detection
 ](http://s3.eurecom.fr/docs/mtd17_han_deception.pdf)
   - [HoneyIo4: the construction of a virtual, low-interaction IoT Honeypot](https://upcommons.upc.edu/bitstream/handle/2117/108166/Alejandro_Guerra_Manzanares.pdf)
-  - [Picky Attackers: Quantifying the Role of System Properties on
-Intruder Behavior](https://www.securitee.org/files/pickyattackers_acsac2017.pdf)
   - [Weems: An extensible HTTP honeypot](https://researchspace.csir.co.za/dspace/bitstream/handle/10204/9691/Pearson_19652_2017.pdf)
   - [Understanding Security Flaws of IoT Protocols through Honeypot Technologies](https://repository.tudelft.nl/islandora/object/uuid:f4be5514-e9df-499a-8eea-f78c510d3346?collection=education)
   - [Enhancing Honeypot Deception Capability
