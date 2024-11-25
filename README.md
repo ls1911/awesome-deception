@@ -286,16 +286,8 @@ techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1
   - [Advanced Honeypot-based Intrusion
 Detection](https://www.usenix.org/system/files/login/articles/822/goebel.pdf)
   - [Lessons learned from the deployment of a high-interaction honeypot](https://arxiv.org/ftp/arxiv/papers/0704/0704.0858.pdf)
-- 2005
-  - [Detecting Targeted Attacks Using Shadow Honeypots](https://www.usenix.org/legacy/events/sec05/tech/full_papers/anagnostakis/anagnostakis.pdf)
-  - [A Honeypot Architecture for Detecting and Analyzing Unknown Network Attacks](https://www.eecs.tu-berlin.de/fileadmin/fg112/Papers/kivs05.pdf)
-- 2004
-  - [Honeynets: An Educational Resource for IT Security](http://www.cs.potsdam.edu/faculty/laddbc/Teaching/Ethics/StudentPapers/2004Jones-HoneynetsAnEducationalResourceForITSecurity.pdf)
 - 2003
   - [How intrusion detection can improve software decoy applications](https://core.ac.uk/download/pdf/36694822.pdf)
-  - [Honeytokens: The Other Honeypot](https://www.symantec.com/connect/articles/honeytokens-other-honeypot)
-  - [Honeypots: Catching the
-Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
   
 - 2001
   - [A Framework for Deception](http://all.net/journal/deception/DeceptionFramework.pdf) 
@@ -303,11 +295,6 @@ Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
 # Podcasts
 - [Origins of Deception Technology with Haroon Meer](https://hackervalley.com/e/episode-74-origins-of-deception-technology-with-haroon-meer/)
 - [Active Deception as a Methodology for Cybersecurity](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
-
-# Presentations
-- [Detecting Reverse Engineering with Canaries](https://www.mulliner.org/collin/publications/Detecting_Reverse_Engineering_with_Canaries.pdf)
-- [The smartest way to protect Websites and Web Apps from Attacks](https://www.blackhat.com/docs/webcast/April_Black_Hat_Webcast_Mykonos.pdf)
-- [Sorry Your Princess is in Another Castle: Intrusion Deception to Protect the Web](https://slideum.com/doc/1172550/intrusion-deception-kyle-adams-%E2%80%93-chief-software-architect...)
 
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
@@ -401,9 +388,6 @@ Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
 - [Getting Started in Cyber Deception](https://youtu.be/cCxbBz1UbnA)
 - [Messing with Portscans with Honeyports (Cyber Deception)](https://youtu.be/hMLStJuNUT0)
 - [ShellCon 2018 Keynote - DIY Blue Teaming](https://youtu.be/9i7GA4Z2vcM)
-- [Black Hat USA 1999 - Burglar alarms and Booby Traps](https://youtu.be/jNDNuoYMIAI)
-- [When the Tables Turn](https://www.youtube.com/watch?v=GoxRlMHeO4M)
-- [Hackers Want Passwords](https://www.youtube.com/watch?v=zatXHKgPnec)
 - [Honeytokens: Detecting Attacks to Your Web Apps Using Decoys and Deception](https://youtu.be/5dukn9hcy_Q)
 - [Web Application Honeypot Threat Intelligence](https://www.youtube.com/watch?v=Pr43GUdkxHU)
 - [Faking a Factory: Creating and Operating a Realistic Honeypot](https://www.youtube.com/watch?v=4y7JJoZd0ic)
