@@ -277,8 +277,6 @@ Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
   - [Set-up and deployment of a high-interaction honeypot:experiment and lessons learned](https://hal.archives-ouvertes.fr/hal-00762596/document)
-- 2011
-  - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
 - 2007
   - [Defensive Computer-Security Deception Operations: Processes, Principles and Techniques](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/5648/etd.pdf?sequence=1&isAllowed=y)
   - [Using deception to hide things from hackers: Processes, principles, and
