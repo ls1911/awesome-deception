@@ -9,7 +9,7 @@
 
 ***First version should be only cyber deception related items that are accessible - Done ✅***
 
-***Second Version - Only awesome links will be left - In Work***
+***still working on v3 Version - Only awesome links will be left - In Work***
 
 
 A curated list of awesome Cyber Deception and Threat Intelligence resources
