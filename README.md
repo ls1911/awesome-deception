@@ -66,7 +66,7 @@ This version aims for clarity and flow, while retaining the original meaning and
     <td>A web application honeypot that emulates vulnerabilities typically found in web apps, such as SQL injection and cross-site scripting (XSS). It collects data on web-based attacks, which is valuable for studying emerging threats.</td>
     <td>✅</td>
   </tr>
-        <tr>
+  <tr>
     <td><a href="https://github.com/buffer/thug">Thug - Honey client</a></td>
     <td>Thug is a Python low-interaction honeyclient aimed at mimicking the behavior of a web browser in order to detect and emulate malicious contents.</td>
     <td>✅</td>
