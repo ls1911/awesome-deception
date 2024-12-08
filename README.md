@@ -67,12 +67,11 @@ This version aims for clarity and flow, while retaining the original meaning and
     <td>✅</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/buffer/thug">Thug - Honey client</a></td>
-    <td>Thug is a Python low-interaction honeyclient aimed at mimicking the behavior of a web browser in order to detect and emulate malicious contents.</td>
+    <td><a href="https://github.com/buffer/thug">Thug</a></td>
+    <td>Honey client - Thug is a Python low-interaction honeyclient aimed at mimicking the behavior of a web browser in order to detect and emulate malicious contents.</td>
     <td>✅</td>
   </tr>
-
-      <tr>
+  <tr>
     <td><a href="https://github.com/DataSoft/Honeyd">Honeyd</a></td>
     <td>Honeyd is a small daemon that creates virtual hosts on a network. The hosts can be configured to run arbitrary services, and their TCP personality can be adapted so that they appear to be running certain versions of operating systems.</td>
     <td>❌</td>
