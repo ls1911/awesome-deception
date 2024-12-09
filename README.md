@@ -282,12 +282,6 @@ Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
   - [Defensive Computer-Security Deception Operations: Processes, Principles and Techniques](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/5648/etd.pdf?sequence=1&isAllowed=y)
   - [Using deception to hide things from hackers: Processes, principles, and
 techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1b6e497.pdf)
-  - [Advanced Honeypot-based Intrusion
-Detection](https://www.usenix.org/system/files/login/articles/822/goebel.pdf)
-  - [Lessons learned from the deployment of a high-interaction honeypot](https://arxiv.org/ftp/arxiv/papers/0704/0704.0858.pdf)
-- 2003
-  - [How intrusion detection can improve software decoy applications](https://core.ac.uk/download/pdf/36694822.pdf)
-  
 - 2001
   - [A Framework for Deception](http://all.net/journal/deception/DeceptionFramework.pdf) 
 
