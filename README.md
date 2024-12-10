@@ -9,6 +9,8 @@
 
 ***First version should be only cyber deception related items that are accessible - Done ✅***
 
+***Removed all unworthy youtube links***
+
 ***still working on v3 Version - Only awesome links will be left - In Work***
 
 
